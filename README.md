@@ -1,7 +1,9 @@
-Welcome to the Husionn's github profile
+Welcome to the Husionn(Hasan Hüseyin Emre)'s github profile
 
-Currently he is learning C programming language
+He is an attendant to Ecole 42 Istanbul.
 
-As soon as he feel himself comfortable with C, he will learn another languages.
+Right now, he is mainly learning C programming language.
+
+This profile is still in construction and improving day by day.
 
 Have a nice trip in profile..
